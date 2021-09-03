@@ -1,4 +1,4 @@
 ### _Topic: How Swiggy Chatbot Works?_
 ### _Date: 02 September '21_
-![](Certificate.png)
+![](Files/Certificate.png)
 ---
